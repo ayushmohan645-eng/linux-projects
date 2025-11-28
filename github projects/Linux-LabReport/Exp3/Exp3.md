@@ -1,6 +1,6 @@
 ## Experiment 3: Linux File Manipulation and System Manipulation
 
-### Name: Priyadarshi Prabhakar  Roll No.: 590029237   Date: 2025-09-23
+### Name: AYUSH MOHAN  Roll No.: 590029157  Date: 2025-09-23
 
 ### Aim:
 
@@ -213,5 +213,6 @@ ls -li original.txt hardlink.txt symlink.txt
 * Understood differences between hard and symbolic links.
 
 ## Conclusion
+
 
 This experiment provided hands-on experience with core Linux file management, permissions, searching, archiving, and linking. These are foundational skills for effective Linux system administration and daily usage.
