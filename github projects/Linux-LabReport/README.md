@@ -1,7 +1,7 @@
 # Linux Lab Report
 
-**Name:** Priyadarshi Prabhakar  
-**SAP ID:** 590029237  
+**Name:** AYUSH MOHAN  
+**SAP ID:** 590029157  
 
 ---
 
@@ -19,5 +19,6 @@
 | **Experiment 6** | [Go to Exp6](./Exp6) |
 | **Experiment 7** | [Go to Exp7](./Exp7) |
 | **Experiment 8** | [Go to Exp8](./Exp8) |
+
 
 ---
