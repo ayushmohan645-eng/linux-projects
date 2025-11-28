@@ -1,6 +1,6 @@
 ## Experiment [2]: [Linux file systems permissions and essential commands]
 
-### Name: Priyadarshi Prabhakar  Roll.: 590029237 Date: 2025-17-05
+### Name: AYUSH MOHAN  Roll.: 590029157 Date: 2025-17-05
 
 ### AIM:
 * [To Learn linux file systems permissions and essential commands]
@@ -221,4 +221,5 @@ find . -type d | wc -l >> summary.txt
 ```
 
 ### Output:
+
 ![](./summary.png)
