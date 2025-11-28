@@ -1,5 +1,5 @@
 ## Experiment [4]: [Bash Scripting]
-### Name: Priyadarshi Prabhakar, Roll No.: 590029237, Date: 2025-09-04
+### Name: AYUSH MOHAN, Roll No.: 590029157, Date: 2025-09-04
 ### AIM: 
 * [To Learn Basics of Bash Scripting.]
 
@@ -90,4 +90,5 @@ fi
 ## Output:
 ![voting](/Exp4/.img/voting.png)
 ## Result
+
 * The Exercises were successfully completed for Basic Shell Scripting.
