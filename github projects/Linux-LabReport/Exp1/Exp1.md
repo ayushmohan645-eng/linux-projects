@@ -1,6 +1,6 @@
 ## Experiment [1]: Install WSL, virtualbox, create virtual machine with linux os like ubuntu, linuxmint, or debian
 
-### Name: Priyadarshi Prabhakar Roll no.: 590029237 Date: 2025-09-05
+### Name: AYUSH MOHAN Roll no.: 590029157 Date: 2025-09-05
 
 ### AIM:
 * [To install wsl, create virtual machine with linux distros like ubuntu, debian, etc]
@@ -137,3 +137,4 @@ wsl --install Ubuntu
 5.  The installation will run. Once finished, you will be prompted to **restart the computer**.
 6.  When it asks you to "Please remove the installation medium", you can press `Enter`. VirtualBox will automatically eject the ISO on shutdown.
 7.  The VM will reboot into your freshly installed Linux OS.
+
