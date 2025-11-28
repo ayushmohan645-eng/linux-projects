@@ -1,6 +1,6 @@
 ## Experiment 6: Shell Loops
 
-### Name: Priyadarshi Prabhakar Roll No.: 590029237 Date: 2025-09-23
+### Name: AYUSH MOHAN, Roll No.: 590029157 Date: 2025-09-23
 
 ### Aim:
 
@@ -260,5 +260,6 @@ fi
 * Loops are powerful for automation in shell scripting. Correct quoting and use of control constructs prevent common bugs.
 
 ## Conclusion
+
 
 The lab demonstrated practical loop constructs in Bash for automating repetitive tasks and processing data efficiently.
