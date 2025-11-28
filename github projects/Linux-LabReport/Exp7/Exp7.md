@@ -1,6 +1,6 @@
 ## Experiment 7: Shell Programming, Process and Scheduling
 
-### Name: Priyadarshi Prabhakar Roll No.: 590029237  Date: 2025-09-23
+### Name: AYUSH MOHAN Roll No.: 590029157  Date: 2025-09-23
 
 ### Aim:
 
@@ -156,5 +156,6 @@ factorial $num
 * Learned job control and scheduling using `cron` and `at`.
 
 ## Conclusion
+
 
 This experiment provided practical experience with shell scripting, process management, and scheduling. These are critical skills for system administrators to automate and control Linux environments effectively.
