@@ -1,5 +1,5 @@
 ## Experiment [5]: [Shell Programming]
-### Name: Priyadarshi Prabhakar Roll.: 590029237 Date: 2025-09-05
+### Name: AYUSH MOHAN, Roll.: 590029157 Date: 2025-09-05
 
 ### AIM:
 * [To Learn Basic Conditional Statements in Bash Scripting]
@@ -111,4 +111,5 @@ fi
 ![armstrong](/Exp5/.img/armstong.png)
 
 ## Result:
+
 * 
